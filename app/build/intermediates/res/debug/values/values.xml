@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/E:/HelloWorld/app/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="orange">#FF7411</color>
+    <!-- From: file:/E:/HelloWorld/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="margin_default">16dp</dimen>
+    <!-- From: file:/E:/HelloWorld/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">        HelloWorld</string>
+    <!-- From: file:/E:/HelloWorld/app/src/main/res/values/activity_main_strings.xml -->
+    <eat-comment />
+
+    <string name="textview_hello_android">        Hello Android!!</string>
+    <!-- From: file:/E:/HelloWorld/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>

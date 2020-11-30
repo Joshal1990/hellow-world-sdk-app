@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/E:/HelloWorld/app/src/main/res/values-th/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">        สวัสดีชาวโลก</string>
+    <!-- From: file:/E:/HelloWorld/app/src/main/res/values-th/activity_main_strings.xml -->
+    <eat-comment />
+
+    <string name="textview_hello_android">        สวัสดี แอนดรอยด์!!</string>
+
+</resources>

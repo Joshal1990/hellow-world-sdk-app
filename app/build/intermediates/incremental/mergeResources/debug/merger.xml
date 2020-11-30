@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="E:\HelloWorld\app\src\main\res" >
+            <file
+                name="ic_launcher"
+                path="E:\HelloWorld\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\HelloWorld\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\HelloWorld\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\HelloWorld\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="E:\HelloWorld\app\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="E:\HelloWorld\app\src\main\res\values\activity_main_strings.xml"
+                qualifiers="" >
+                <string name="textview_hello_android" >        Hello Android!!
+                </string>
+            </file>
+            <file
+                path="E:\HelloWorld\app\src\main\res\values\colors.xml"
+                qualifiers="" >
+                <color name="orange" >#FF7411
+                </color>
+            </file>
+            <file
+                path="E:\HelloWorld\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="margin_default" >16dp
+                </dimen>
+            </file>
+            <file
+                path="E:\HelloWorld\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="app_name" >        HelloWorld
+                </string>
+            </file>
+            <file
+                path="E:\HelloWorld\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                path="E:\HelloWorld\app\src\main\res\values-th\activity_main_strings.xml"
+                qualifiers="th" >
+                <string name="textview_hello_android" >        สวัสดี แอนดรอยด์!!
+                </string>
+            </file>
+            <file
+                path="E:\HelloWorld\app\src\main\res\values-th\strings.xml"
+                qualifiers="th" >
+                <string name="app_name" >        สวัสดีชาวโลก
+                </string>
+            </file>
+        </source>
+        <source path="E:\HelloWorld\app\build\generated\res\rs\debug" />
+        <source path="E:\HelloWorld\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="E:\HelloWorld\app\src\debug\res" />
+    </dataSet>
+
+</merger>
